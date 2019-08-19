@@ -1,0 +1,278 @@
+
+
+
+
+.numerals {
+    position: absolute;
+    left: -19%;
+    margin-top: 54%;
+    color: white;
+    font-size: 98px;
+}
+.shape1{
+	 width: 0;
+height: 0;
+border-top: 272px solid transparent;
+border-right: 1334px solid #8080805c;
+border-bottom: 272px solid transparent;
+
+
+
+}
+
+.shape1 h2{
+	position: absolute;
+left: 13%;
+background: 
+margin-top: -34px;
+font-size: 47px;
+color: white;
+}
+
+body{
+	background-color: black;
+	font-family: 'Cinzel';
+}
+
+
+.strength{
+	position: absolute;
+left: 60%;
+margin-top: -104px;
+font-size: 47px;
+color: white;
+box-shadow: 10px 10px;
+}
+
+.headline1:before{
+	content: "";
+position: absolute;
+background: black;
+top: 38px;
+right: 102%;
+width: 142px;
+height: 9px;
+}
+
+
+.headline2:before{
+	content: "";
+position: absolute;
+background: black;
+top: 108px;
+right: 102%;
+width: 142px;
+height: 9px;
+}
+
+
+.headline3:before{
+	content: "";
+position: absolute;
+background: black;
+top: 181px;
+right: 102%;
+width: 142px;
+height: 9px;
+}
+
+.bgport{
+	background-image: url("../img/img0.jpg");
+	height: 400px;
+}
+
+
+
+.confidence{
+	border: 1px solid black;
+	margin-top: 205px;
+}
+
+.magic{
+	border: 1px solid white;
+}
+.photo{
+	background-image: url("../img/cam.png");
+	background-repeat: no-repeat;
+	height:400px;
+}
+
+.work{
+	background-color: #060C0C;
+}
+
+.footer{
+	background-color: #060C0C;
+}
+.card{
+	background-color: #060C0C;
+  border: 6px solid darkgray;
+  box-shadow: 2px 2px 3px darkgray;
+}
+.textpos{
+	position: absolute;
+
+left: 33%;
+color: white;
+}
+
+.textpos1{
+	position: absolute;
+
+left: 33%;
+color: white;
+}
+
+
+.shapes{
+     
+    border-bottom: 77px solid #060C0C;
+    border-left: 51px solid transparent;
+    border-right: 51px solid transparent;
+    height: 101px;
+    width: 1087px;
+
+}
+
+.shapetext {
+    position: absolute;
+    left: 11%;
+    margin-top: -1%;
+    width: 282px;
+}
+.shapetext1 {
+    position: absolute;
+    left: 39%;
+    margin-top:-1%;
+    width: 282px;
+}
+.shapetext2 {
+    position: absolute;
+    left: 66%;
+    margin-top: -1%;
+    width: 282px;
+}
+.shapes h2{
+	position: absolute;
+	margin-top: 27px;
+	left: 31%;
+}
+.rounded-circle{
+width: 200px;
+}
+
+.shapes1{
+
+     
+    border-bottom: 184px solid #060C0C;
+    border-left: 51px solid transparent;
+    border-right: 51px solid transparent;
+    height: 101px;
+    width: 1087px;
+position: relative;
+
+margin-top: 40%;
+
+}
+
+.shapes1 h2{
+	position: absolute;
+	margin-top: 27px;
+	left: 31%;
+}
+
+.shapes1 p {
+    margin-top: 77px;
+    position: absolute;
+}
+
+a{
+	color: white;
+}
+
+a:hover{
+	color: white;
+	text-decoration: none;
+}
+.shapetext:hover{
+	box-shadow: 10px 10px 4px #605a5a91;
+}
+
+.shapetext1:hover{
+box-shadow: 10px 10px 4px #605a5a91;
+}
+
+.shapetext2:hover{
+	box-shadow: 10px 10px 4px #605a5a91;
+	
+}
+
+.pointer1{
+	position: relative;
+}
+
+
+.pointer1 h2{
+	position: relative;
+
+left: -23%;
+}
+
+.bg-brown{
+	background: #A97C52;
+}
+ .pointer {
+      width: 200px;
+      height: 40px;
+      position: absolute;
+      background: #A97C52;
+    }
+    
+    .pointer:before {
+      content: "";
+      position: absolute;
+      right: -20px;
+      bottom: 0;
+      width: 0;
+      height: 0;
+      border-left: 20px solid #A97C52;
+      border-top: 20px solid transparent;
+      border-bottom: 20px solid transparent;
+    }
+
+
+    .pointer2 {
+      width: 200px;
+      height: 40px;
+      position: absolute;
+      background: #A97C52;
+      left: 41%;
+    }
+    
+    .pointer2:after {
+      content: "";
+width: 0;
+height: 0;
+border-top: 20px solid transparent;
+border-right: 20px solid #A97C52;
+border-bottom: 20px solid transparent;
+position: absolute;
+left: -10%;
+    }
+
+
+
+.pointer-2 {
+	position: relative;
+    left: 4%;
+}
+   
+   span{
+   	font-weight: bold;
+   	font-size: 20px;
+   }
+
+
+   .bg-dark1{
+   	background: #603814;
+   }
